@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/e3gupby3bk39707q/branch/master?svg=true)](https://ci.appveyor.com/project/RebikHub/ra-forms-hex/branch/master)
 
 [Конвертер цветов из HEX в RGB](https://rebikhub.github.io/ra-forms-hex/)
 
