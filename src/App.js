@@ -1,11 +1,9 @@
 import React from 'react';
 import './App.css';
+import Converter from './components/Converter';
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-    </div>
+    <Converter/>
   );
 }
-
-export default App;
